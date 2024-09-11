@@ -36,6 +36,10 @@ Welcome to my GitHub repository! This repository documents my journey through va
 - **Completed on:** 10 September 2024
 - Introduced me to programming logic, including flowcharts, pseudocode, and basic algorithm design, strengthening my problem-solving skills in programming.
 
+### 9. Basic Git and GitHub - Dicoding
+- *Still on progress.*
+- Course that teach me how to use Git and GitHub effectively, from the basic to advanced.
+
 ## 🚀 Next Steps
 
 I am continually looking to improve and expand my skillset by exploring advanced topics in programming, web development, and machine learning. Stay tuned for more updates and projects!
